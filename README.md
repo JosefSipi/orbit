@@ -22,7 +22,7 @@ of box to black
 * allow zoom to be adjusted
 
 ## Wire Frame
-![wire frame image](images/second.png)
+![wire frame image](src/images/second.png)
 
 ## File Structure
 drawing_with_JS
